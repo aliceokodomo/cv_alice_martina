@@ -14,3 +14,8 @@ https://unsplash.com/collections/71058515/digital-learning
 
 
 finally going to base my CV on that template: https://getbootstrap.com/docs/5.0/examples/carousel/
+
+
+here is the published page 
+
+https://aliceokodomo.github.io/cv_alice_martina/
